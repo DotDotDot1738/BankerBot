@@ -7,8 +7,8 @@ from flask import Flask
 import threading
 
 # Bot configuration
-TOKEN = 'MTI1MzI4ODY3NjA4ODA5MDcyNg.Gk0WZK.CMVBk6IixdkeFE7AfwnQxDLBWiYQyyL7r6i0LU'
-POLITICS_AND_WAR_API_KEY = '02e32828d91e327557f5'
+TOKEN = 'DISCORD TOKEN'
+POLITICS_AND_WAR_API_KEY = 'API KEY'
 VERIFIED_ROLE_NAME = 'Verified'  # Role that allows users to interact with the bot
 
 # Initialize the bot
